@@ -1,5 +1,5 @@
 [Modified from the android-rpi original to use the automotive specific config]
-
+THis project is bases on rpi project
 Read it first : https://github.com/snappautomotive/firmware_rpi-local_manifests
 
 # Build Kernel
